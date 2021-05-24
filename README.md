@@ -1,4 +1,4 @@
-**2016 US PRESIDENTIAL ELECTION**
+# 2016 US PRESIDENTIAL ELECTION
 
 The 2016 United States presidential election was the 58th quadrennial presidential election, held on Tuesday, November 8, 2016. In what was considered as one of the greatest political upsets since 1948, the Republican ticket of businessman Donald Trump and Indiana governor Mike Pence defeated the Democratic ticket of former secretary of state Hillary Clinton and U.S. senator from Virginia Tim Kaine. Trump took office as the 45th president, and Pence as the 48th vice president, on January 20, 2017. It was the fifth and most recent presidential election in which the winning candidate lost the popular vote.
 
